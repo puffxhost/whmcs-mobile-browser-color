@@ -1,0 +1,31 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-addons",
+    "name": "puffxmbcolor",
+    "version": "1.0",
+    "license": "mit",
+    "category": "other",
+    "description": {
+        "name": "Puffx Host - Mobile Browser Tab Color",
+        "tagline": "Addon to change mobile browser tab color for better branding",
+        "long": "The Puffx Host Mobile Browser Tab Color addon allows you to customize the color of the mobile browser's search/address bar, improving your website's look and feel on smartphones.",
+        "features": [
+            "Client Area: Automatically injects theme color meta tag",
+            "Admin Area: Enable or disable feature",
+            "Admin Area: Choose your custom color"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "docs_url": "https://github.com/puffxhost/whmcs-mobile-browser-color",
+        "learn_more": "https://github.com/puffxhost/whmcs-mobile-browser-color"
+    },
+    "authors": [
+        {
+            "name": "Puffx Host",
+            "homepage": "https://www.puffxhost.com/"
+        }
+    ]
+}
