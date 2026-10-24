@@ -59,7 +59,7 @@ YOUR_WHMCS_ROOT/
 Need help or have questions?<br><br>
 📧 Email: <a href="mailto:support@puffxhost.in">support@puffxhost.in</a><br>
 🌐 Website: <a href="https://puffxhost.com/contact" target="_blank">https://puffxhost.com/contact</a><br>
-📞 WhatsApp: <a href="#">Click Here</a>
+📞 Call: <a href="https://wa.me/918602967573">+91 8602967573</a><br>💬 WhatsApp: <a href="https://wa.me/917354336624">+91 7354336624</a>
 </p>
 
 <hr>
@@ -78,3 +78,20 @@ Developed and maintained by <strong>Puffx Technologies</strong><br>
 Visit: <a href="https://puffxhost.com" target="_blank">https://puffxhost.com</a><br><br>
 Developed with ❤️ by <strong>Nitin Mehta</strong>
 </p>
+
+## 🛟 Support & Contact
+
+Need help or want to report an issue?
+
+- 🌐 Website: [puffxhost.com/contact](https://puffxhost.com/contact)
+- 📧 Email: [support@puffxhost.in](mailto:support@puffxhost.in)
+- 📞 Call: [+91 8602967573](https://wa.me/918602967573)
+- 💬 WhatsApp: [+91 7354336624](https://wa.me/917354336624)
+
+## 🙌 Contributing
+
+Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
+
+## ⭐️ Give a Star
+
+If you found this project useful, please consider giving it a star on GitHub to support its development.
